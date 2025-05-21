@@ -23,7 +23,7 @@ Currently focused on:
 Feel free to reach out or check out my work:
 
 - 📍 Location: Colombia  
-- 📧 Email: _coming soon_  
+- 📧 Email: erikgarroyom@gmail.com
 - 💼 Portfolio: _coming soon_
 
 <!--
