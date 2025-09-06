@@ -6,17 +6,19 @@
 💡 About Me
 
 I'm a systems engineering student passionate about building useful, elegant, and scalable software.
-I love learning new technologies, exploring how things work behind the scenes, and turning ideas into real projects.
+I enjoy learning new technologies, tinkering with Linux, and applying cybersecurity fundamentals to create safer applications.
 
-Right now, I’m focusing on:
+Currently focused on:
 
 🌐 Full-Stack Web Development
 
 🗄️ Database Design & Optimization
 
+🐧 Linux for development & system administration
+
 🔐 Cybersecurity Fundamentals
 
-📈 Growing my portfolio with personal and academic projects
+📈 Expanding my portfolio with personal and academic projects
 
 🛠️ Tech Stack
 
@@ -26,7 +28,9 @@ Web: HTML, CSS
 
 Databases: Relational Databases (design & management)
 
-Other: Software Engineering principles
+Systems & Tools: Linux (daily use), Git & GitHub
+
+Other: Software Engineering principles, basic cybersecurity
 
 📫 Connect with Me
 
