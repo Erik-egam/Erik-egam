@@ -1,42 +1,37 @@
 👋 Hi, I'm Erik Arroyo
 
-🎓 **Systems Engineering Student**  
-💻 **Passionate about Web Development & Technology** 
+🎓 Systems Engineering Student
+💻 Aspiring Full-Stack Developer | Tech Enthusiast
 
----
+💡 About Me
 
-### 💡 About Me
+I'm a systems engineering student passionate about building useful, elegant, and scalable software.
+I love learning new technologies, exploring how things work behind the scenes, and turning ideas into real projects.
 
-I'm a dedicated and creative full-stack developer in training. I enjoy solving real-world problems through code and bringing ideas to life with clean, scalable solutions.
+Right now, I’m focusing on:
 
-Currently focused on:
+🌐 Full-Stack Web Development
 
-- 🌐 Full-Stack Web Development  
-- 🗄️ Database Design & Optimization  
-- 🔐 Cybersecurity Fundamentals  
-- 📈 Building my personal and professional portfolio
+🗄️ Database Design & Optimization
 
----
+🔐 Cybersecurity Fundamentals
 
-### 📫 Let's Connect
+📈 Growing my portfolio with personal and academic projects
 
-Feel free to reach out or check out my work:
+🛠️ Tech Stack
 
-- 📍 Location: Colombia  
-- 📧 Email: erikgarroyom@gmail.com
-- 💼 Portfolio: _coming soon_
+Languages & Frameworks: Python, Django, Flask, JavaScript, C++, Dart, Flutter (learning)
 
-<!--
-**Erik-egam/Erik-egam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web: HTML, CSS
 
-Here are some ideas to get you started:
+Databases: Relational Databases (design & management)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other: Software Engineering principles
+
+📫 Connect with Me
+
+📍 Colombia
+
+📧 erikgarroyom@gmail.com
+
+💼 Portfolio: coming soon
