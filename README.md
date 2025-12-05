@@ -28,10 +28,10 @@ Algunas de las tecnologías y herramientas con las que trabajo / estoy aprendien
 Aquí algunos de mis repositorios públicos más relevantes:  
 
 - **sistema_academico** — Proyecto de gestión académica (Dart)  
-- **backend-sistema-academico** — Backend para sistema académico (Python / Django)  
+- **backend-sistema-academico** — Backend para sistema académico (Python / FastAPI)  
 - **Widgets_app** — Aplicación multiplataforma con Dart / Flutter  
 - **Servivio-de-limpieza-systemd-para-maquinas-remotas-con-GUI-TKinter** — Servicio/python + GUI  
-- **toktik** — Proyecto en C++  
+- **toktik** — Proyecto en Dart
 
 (Consulta mis repositorios públicos para ver todos los proyectos disponibles)  
 
