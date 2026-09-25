@@ -1,52 +1,96 @@
-<h1 align="center">Hola 👋, soy ErikDev (Erik-egam)</h1>
+# Hi, I'm Erik 👋
 
-## 🎯 Sobre mí  
-Soy estudiante de Ingeniería de Sistemas con aspiraciones a desarrollador Full-Stack. Me apasiona crear software útil, elegante y escalable. Actualmente estoy profundizando mis conocimientos en desarrollo completo, administración de bases de datos, sistemas Linux y fundamentos de ciberseguridad.  
+Systems Engineering student focused on backend development,
+AI systems, and open-source software.
 
----
+## About Me
 
-## 🔧 Tech & Herramientas  
-Algunas de las tecnologías y herramientas con las que trabajo / estoy aprendiendo:
+I enjoy understanding how software works under the hood and turning
+ideas into practical, maintainable systems.
 
-- Python · C++ · Dart  
-- Frameworks / Entornos: Django · Flutter  
-- Docker · Linux · Git  
-- MySQL · Diseño y optimización de bases de datos  
-- Desarrollo full-stack, backend, frontend  
-- Interés en ciberseguridad y buenas prácticas  
+My current focus is backend development with Python and FastAPI,
+AI agent systems, software architecture, and systems programming.
 
----
+I'm particularly interested in building developer tools and exploring
+how AI can be integrated into real software systems.
 
-## 🚀 Qué estoy construyendo / aprendiendo  
-- Proyectos personales y académicos para ampliar mi portafolio.  
-- Backend robustos, servicios con buenas prácticas, aplicaciones multiplataforma.  
-- Mejora continua en administración de sistemas y seguridad.  
+## Current Focus
 
----
+- Building backend applications and APIs with Python and FastAPI.
+- Exploring AI agents, tool calling, and LLM-based systems.
+- Learning software architecture and systems programming.
+- Building open-source developer tools.
+- Improving my knowledge of databases, Linux, and distributed systems.
 
-## 📂 Proyectos destacados  
-Aquí algunos de mis repositorios públicos más relevantes:  
+## Tech Stack
 
-- **sistema_academico** — Proyecto de gestión académica (Dart)  
-- **backend-sistema-academico** — Backend para sistema académico (Python / FastAPI)  
-- **Widgets_app** — Aplicación multiplataforma con Dart / Flutter  
-- **Servivio-de-limpieza-systemd-para-maquinas-remotas-con-GUI-TKinter** — Servicio/python + GUI  
-- **toktik** — Proyecto en Dart
+### Languages
 
-(Consulta mis repositorios públicos para ver todos los proyectos disponibles)  
+- Python
+- SQL
+- TypeScript
+- Dart
+- C
 
----
+### Backend & Databases
 
-## 🌐 Contáctame  
-- 📧 Email: erikgarroyom@gmail.com  
-- 📍 Ubicación: Colombia  
+- FastAPI
+- NestJS
+- PostgreSQL
+- Supabase
+- REST APIs
 
----
+### Frontend & Mobile
 
-## 📌 Otros  
-- Portafolio: *en construcción*.  
-- Siempre abierto a colaboraciones, aprendizaje conjunto y nuevas ideas.  
+- React
+- Next.js
+- Flutter
 
----
+### AI
 
-Gracias por visitar mi perfil. ¡Vamos por buen código! 💻  
+- LLMs
+- AI Agents
+- Tool Calling
+
+### Tools & Infrastructure
+
+- Git
+- Docker
+- Linux
+
+## Featured Projects
+
+### OpenCode MCP Delegate
+
+An MCP server that allows Claude Code to delegate mechanical
+coding tasks to OpenCode agents while keeping higher-level
+reasoning and architectural decisions in the main agent.
+
+[View repository](https://github.com/Erik-egam/OpenCode-MCP-delegate)
+
+### DEVHUB
+
+A developer community focused on practical learning,
+collaboration, technical projects, and open-source development.
+
+[View repository](https://github.com/Erik-egam/DEVHUB-WEB)
+
+### Academic System
+
+A full-stack academic management system built with Flutter
+and a Python backend.
+
+[View repository](https://github.com/Erik-egam/sistema_academico)
+
+## Currently Learning
+
+- AI Agent Architecture
+- Software Architecture
+- Systems Programming
+- Distributed Systems
+- Open Source Development
+
+## Connect With Me
+
+- LinkedIn: [Erik Giovanny Arroyo Mosquera](https://www.linkedin.com/in/erik-arroyo-541473292?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- GitHub: [@Erik-egam](https://github.com/Erik-egam)
